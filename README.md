@@ -10,6 +10,13 @@ This project was completed as part of my Excel and Data Analytics learning journ
 
 ---
 
+## 📝 Note
+
+This project was completed as part of my Excel and Data Analytics learning journey by following a guided tutorial. I further customized the dashboard with my own color palette, layout improvements, and design refinements to enhance its visual presentation. The data cleaning and transformation were performed independently using Excel Power Query.
+
+---
+
+
 ## 📊 Dashboard Preview
 
 <img width="1522" height="617" alt="image" src="https://github.com/user-attachments/assets/35f2fe3d-45b1-4a15-8442-14543a6732b1" />
