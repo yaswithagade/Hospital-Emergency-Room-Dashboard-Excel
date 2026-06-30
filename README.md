@@ -12,7 +12,8 @@ This project was completed as part of my Excel and Data Analytics learning journ
 
 ## 📊 Dashboard Preview
 
-> Add a screenshot of your dashboard here.
+<img width="1522" height="617" alt="image" src="https://github.com/user-attachments/assets/35f2fe3d-45b1-4a15-8442-14543a6732b1" />
+
 
 ---
 
@@ -92,6 +93,22 @@ The dashboard enables users to
 
 ---
 
+## Data Cleaning Process
+
+The dataset was cleaned using Excel Power Query before analysis.
+
+The following transformations were performed:
+
+- Removed duplicate records
+- Corrected data types
+- Removed unnecessary columns
+- Standardized text values
+- Handled missing values
+- Renamed columns
+- Prepared the data for Pivot Table analysis
+
+  ---
+
 ## 💡 Insights Generated
 
 - Patient distribution across different age groups
@@ -131,14 +148,6 @@ Through this project I learned
 - Using Slicers for filtering
 - Improving dashboard design principles
 - Presenting business insights visually
-
----
-
-## 📸 Screenshots
-
-### Dashboard
-
-(Add Dashboard Image Here)
 
 ---
 
